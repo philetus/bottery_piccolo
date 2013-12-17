@@ -1,0 +1,54 @@
+Piccolo - Telaio V7 Parts List
+==============================
+
+
+Servos
+------
+
+3x Corona DS-929MG
+http://www.servodatabase.com/servo/corona/ds-929mg
+
+
+Material
+--------
+
+3mm Acrylic, about 200 x 200
+3mm MDF, about 200 x 270
+Heavy Paper, about 160gsm, about 150 x 130
+
+
+Fasteners
+---------
+
+*Metric Sockethead Cap Screws:*
+8x M3 10mm with low profile head
+3x M3 16mm with low profile head
+2x M3 10mm with normal head
+4x M3 22mm with normal head
+17x M3 low profile nuts
+
+1 x rubber bands
+
+
+PCB
+---
+
+Piccolo PCB v0.9 (uses Sparkfun Pro Micro), or other Arduino compatible microcontroller.
+3x Capacitors
+330uF Panasonic ECE-A0JKS331
+http://www.digikey.com/product-detail/en/ECE-A0JKS331/P959-ND/160539
+2x Buttons 
+3.5mm R/A tactile switch, C&K Components PTS635VL39 LFS
+http://www.digikey.co.uk/product-detail/en/PTS635VL39%20LFS/CKN9099-ND/1146757
+3x Servo Headers
+1x03 male
+http://www.digikey.co.uk/product-detail/en/PRPC003SAAN-RC/S1011EC-03-ND/2775251
+1x Power Header
+JST PH 2pos male R/A
+http://www.digikey.co.uk/product-detail/en/S2B-PH-K-S(LF)(SN)/455-1719-ND/926626
+1x GPIO Header
+2x08 female R/A
+http://www.digikey.co.uk/product-detail/en/PPTC082LJBN-RC/S5522-ND/775980
+1x Thumbwheel Potentiometer
+10k Ohm Linear
+http://www.digikey.co.uk/product-detail/en/PPTC082LJBN-RC/S5522-ND/775980
